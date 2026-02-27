@@ -1,0 +1,15 @@
+name: Kristina Khazykova # Ваше имя
+job: 1C Analyst
+level: junior
+email: tinasagul@mail.ru
+description: |
+  люблю фитнес
+  30 лет
+
+
+skills: # Список навыков в виде списка, можете написать сюда что-то свое
+  - Функциональное тестирование
+  - Написание багрепортов
+  - Linux
+  - Слепая печать
+  - Английский язык C1
