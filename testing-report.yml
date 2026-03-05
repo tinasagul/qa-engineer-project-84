@@ -1,7 +1,12 @@
 ---
-- summary: |
+- summary: 
    Успешное добавление товара в корзину
   status: pass
-  summary: |
+
+ - summary:
    Успешное оформление заказа 
   status: fail
+
+  - summary:
+  Проверка фильтрации по цене со значениями 
+  status: pass
